@@ -1,16 +1,16 @@
 <template>
-  <hello-world />
+  <itemList />
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import HelloWorld from "../components/HelloWorld.vue";
+import itemList from "../components/list.vue";
 
 export default defineComponent({
   name: "Home",
 
   components: {
-    HelloWorld,
+    itemList,
   },
 });
 </script>

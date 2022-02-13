@@ -3,7 +3,6 @@
     <v-list-subheader>Sale items</v-list-subheader>
     <v-list-item v-for="(item, i) in items" :key="i" :value="item" active-color="primary">
       <listItem />
-      <v-list-item-title v-text="item.text"></v-list-item-title>-->
     </v-list-item>
   </v-list>
 </template>
