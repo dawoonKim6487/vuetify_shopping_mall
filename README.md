@@ -23,3 +23,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vuetify_shopping_mall
+# vuetify_shopping_mall
